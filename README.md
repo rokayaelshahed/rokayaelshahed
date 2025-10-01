@@ -3,7 +3,7 @@
 <!--
 **rokayaelshahed/rokayaelshahed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Rokaya El-Shahed! &nbsp;&nbsp;<sup>👾 &#12299;Computer Engineer and Mobile developer. </sup>
+### Rokaya El-Shahed! &nbsp;&nbsp;<sup>👾 &#12299;Software Engineer and Mobile developer. </sup>
 
 ----
 
